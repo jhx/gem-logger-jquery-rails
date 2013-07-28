@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LoggerJquery::Rails::VERSION
   spec.authors       = ["Doc Walker"]
   spec.email         = ["doc.walker@jameshardie.com"]
-  spec.description   = %q{logger jQuery plugin}
-  spec.summary       = %q{logger packaged for the Rails 3.1+ asset pipeline.}
+  spec.description   = %q{Provides the `logger` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
+  spec.summary       = %q{Provides the `logger` jQuery plugin packaged for the Rails 3.1+ asset pipeline.}
   spec.homepage      = "https://github.com/jhx/gem-logger-jquery-rails"
   spec.license       = "MIT"
 
