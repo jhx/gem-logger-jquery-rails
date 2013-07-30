@@ -8,16 +8,22 @@ Provides the `logger` jQuery plugin packaged for the Rails 3.1+ asset pipeline.
 
 Add these lines to your application's Gemfile:
 
-    # logger jquery plugin packaged for the rails asset pipeline
-    gem 'logger-jquery-rails', '~> 1.2'
+```rb
+# logger jquery plugin packaged for the rails asset pipeline
+gem 'logger-jquery-rails', '~> 1.2'
+```
 
 And then execute:
 
-    $ bundle
+```sh
+$ bundle
+```
 
 Or install it yourself as:
 
-    $ gem install logger-jquery-rails
+```sh
+$ gem install logger-jquery-rails
+```
 
 Gem version notes:
 
@@ -28,8 +34,10 @@ Gem version notes:
 
 Add these lines to `app/assets/javascripts/application.js`
 
-    // provides logging facility for jQuery from gem 'logger-jquery-rails':
-    //= require jquery.log.js
+```js
+// provides logging facility for jQuery from gem 'logger-jquery-rails':
+//= require jquery.log.js
+```
 
 ## Contributing
 
