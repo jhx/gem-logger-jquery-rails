@@ -7,6 +7,6 @@ module LoggerJquery
     #   "2.0.0.pre"
     #   "2.0.0.beta"
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
-    VERSION = "1.2.0.2"
+    VERSION = "1.2.0.3"
   end
 end

@@ -36,7 +36,7 @@ Add these lines to `app/assets/javascripts/application.js`
 
 ```js
 // provides logging facility for jQuery from gem 'logger-jquery-rails':
-//= require jquery.log.js
+//= require logger-jquery-rails
 ```
 
 ## Contributing
