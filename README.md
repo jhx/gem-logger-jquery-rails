@@ -15,7 +15,7 @@ Add these lines to your application's `Gemfile`:
 
 ```rb
 # logger jquery plugin packaged for the rails asset pipeline
-gem 'logger-jquery-rails', '~> 1.2'
+gem 'logger-jquery-rails', '~> 1.2.004'
 ```
 
 And then execute:
