@@ -1,4 +1,6 @@
-# logger-jquery-rails [![Gem Version](https://badge.fury.io/rb/logger-jquery-rails.png)](http://badge.fury.io/rb/logger-jquery-rails)
+# logger-jquery-rails
+[![Gem Version](https://badge.fury.io/rb/logger-jquery-rails.png)](http://badge.fury.io/rb/logger-jquery-rails)
+[![Build Status](https://travis-ci.org/jhx/gem-logger-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-logger-jquery-rails)
 
 > Gemified by Doc Walker
 
