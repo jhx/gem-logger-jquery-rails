@@ -1,6 +1,9 @@
 # logger-jquery-rails
 [![Gem Version](https://badge.fury.io/rb/logger-jquery-rails.png)](http://badge.fury.io/rb/logger-jquery-rails)
 [![Build Status](https://travis-ci.org/jhx/gem-logger-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-logger-jquery-rails)
+[![Dependency Status](https://gemnasium.com/jhx/gem-logger-jquery-rails.png)](https://gemnasium.com/jhx/gem-logger-jquery-rails)
+[![Code Climate](https://codeclimate.com/github/jhx/gem-logger-jquery-rails.png)](https://codeclimate.com/github/jhx/gem-logger-jquery-rails)
+[![Coverage Status](https://coveralls.io/repos/jhx/gem-logger-jquery-rails/badge.png)](https://coveralls.io/r/jhx/gem-logger-jquery-rails)
 
 > Gemified by Doc Walker
 
