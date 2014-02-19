@@ -1,3 +1,4 @@
+# encoding: utf-8
 module LoggerJquery
   module Rails
     # Refer to Semantic Versioning 2.0.0 (http://semver.org).
@@ -8,6 +9,6 @@ module LoggerJquery
     #   "1.2.000" is logger v1.2.0 + gem release 0
     #   "1.2.001" is logger v1.2.0 + gem release 1
     #   "1.2.010" is logger v1.2.0 + gem release 10
-    VERSION = "1.2.004"
+    VERSION = '1.2.004'
   end
 end
