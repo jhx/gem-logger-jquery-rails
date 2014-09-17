@@ -9,6 +9,10 @@ module LoggerJquery
     #   "1.2.000" is logger v1.2.0 + gem release 0
     #   "1.2.001" is logger v1.2.0 + gem release 1
     #   "1.2.010" is logger v1.2.0 + gem release 10
-    VERSION = '1.2.005'
+    MAJOR = 1
+    MINOR = 2
+    PATCH = '005'
+    BUILD = nil
+    VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
 end
