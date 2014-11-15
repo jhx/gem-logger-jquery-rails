@@ -1,5 +1,16 @@
-CHANGELOG
-=========
+1.2.006 / 2014-11-14
+--------------------
+
+- `NEW` - Add changelog rake task | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/71b4f75)
+- `NEW` - Add CONTRIBUTING.md | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/368ebfd)
+- `IMPROVE` - Configure rspec to use expect syntax | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/023f087)
+- `IMPROVE` - Update development gems | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/468934b)
+- `IMPROVE` - Update rubocop gem | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/4540e47)
+- `IMPROVE` - Add MAJOR, MINOR, PATCH to version.rb | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/7ee6155)
+- `IMPROVE` - Update to ruby-2.1.2 | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/398453d)
+- `FIX` - Disable FileName cop | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/f3ffbed)
+- `IMPROVE` - Update rubocop gem to v0.19.0 | [view](https://github.com/jhx/gem-logger-jquery-rails/commit/29e9f8d)
+
 
 1.2.005 / 2014-02-18
 --------------------

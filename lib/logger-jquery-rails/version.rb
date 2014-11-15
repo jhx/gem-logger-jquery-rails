@@ -11,7 +11,7 @@ module LoggerJquery
     #   "1.2.010" is logger v1.2.0 + gem release 10
     MAJOR = 1
     MINOR = 2
-    PATCH = '005'
+    PATCH = '006'
     BUILD = nil
     VERSION = [MAJOR, MINOR, PATCH, BUILD].compact.join('.')
   end
