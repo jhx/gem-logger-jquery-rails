@@ -1,9 +1,15 @@
 # logger-jquery-rails
-[![Gem Version](https://badge.fury.io/rb/logger-jquery-rails.png)](http://badge.fury.io/rb/logger-jquery-rails)
-[![Build Status](https://travis-ci.org/jhx/gem-logger-jquery-rails.png?branch=master)](https://travis-ci.org/jhx/gem-logger-jquery-rails)
-[![Dependency Status](https://gemnasium.com/jhx/gem-logger-jquery-rails.png)](https://gemnasium.com/jhx/gem-logger-jquery-rails)
-[![Code Climate](https://codeclimate.com/github/jhx/gem-logger-jquery-rails.png)](https://codeclimate.com/github/jhx/gem-logger-jquery-rails)
-[![Coverage Status](https://coveralls.io/repos/jhx/gem-logger-jquery-rails/badge.png)](https://coveralls.io/r/jhx/gem-logger-jquery-rails)
+[![Gem](http://img.shields.io/gem/v/logger-jquery-rails.svg?style=flat)][gem]
+[![Travis](https://img.shields.io/travis/jhx/gem-logger-jquery-rails.svg?style=flat)][travis]
+[![Gemnasium](http://img.shields.io/gemnasium/jhx/gem-logger-jquery-rails.svg?style=flat)][gemnasium]
+[![Code Climate](http://img.shields.io/codeclimate/github/jhx/gem-logger-jquery-rails.svg?style=flat)][code climate]
+[![Coveralls](http://img.shields.io/coveralls/jhx/gem-logger-jquery-rails.svg?style=flat)][coveralls]
+
+[gem]:          https://rubygems.org/gems/logger-jquery-rails
+[travis]:       https://travis-ci.org/jhx/gem-logger-jquery-rails
+[gemnasium]:    https://gemnasium.com/jhx/gem-logger-jquery-rails
+[code climate]: https://codeclimate.com/github/jhx/gem-logger-jquery-rails
+[coveralls]:    https://coveralls.io/r/jhx/gem-logger-jquery-rails
 
 > Gemified by Doc Walker
 
